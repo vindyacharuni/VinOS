@@ -1,4 +1,5 @@
-VinOS: A 16-bit Assembly Operating System Kernel
+VinOS:
+A 16-bit Assembly Operating System Kernel
 VinOS is a custom 16-bit operating system kernel, written entirely in Assembly. It demonstrates fundamental low-level programming by directly interacting with system hardware using BIOS interrupts and CPU instructions.
 
 Developed with NASM on Ubuntu Linux and designed to run in Oracle VirtualBox, VinOS offers a hands-on exploration of OS fundamentals, inspired by projects like MikeOS.
